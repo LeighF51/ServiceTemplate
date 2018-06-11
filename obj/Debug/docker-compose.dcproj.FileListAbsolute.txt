@@ -1,0 +1,2 @@
+C:\Users\fyfieldl\source\Templates\ServiceTemplate\NetCore\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Dev\git\vDoc2\Templates\ServiceTemplate\NetCore\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

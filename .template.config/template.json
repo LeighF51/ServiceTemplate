@@ -1,0 +1,31 @@
+{
+  "author": "Leigh Fyfield",
+  "classifications": [],
+  "description": "Service Package Template, generates a set of projects that can be bundled up into a nuget package for service usage",
+  "name": "Service Template (.NET Core)",
+  "defaultName": "vDoc2",
+  "identity": "Sample.Template.CSharp",
+  "groupIdentity": "Sample.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "shortName": "NetCoreServicePackageTemplate",
+  "sourceName": "NetCoreServicePackageTemplate",
+  "guids": [
+	"{5A76C35C-D91C-4518-B67D-7D3D3A4E6E0B}",
+	"{05DCBF2B-411C-45E0-B5F2-7E8E3120670F}",
+	"{49F154CA-693F-4A39-B646-F8A9F4D8F5A2}"
+  ],
+  "primaryOutputs": [
+    {
+      "path": "NetCoreServicePackageTemplate\\NetCoreServicePackageTemplate.csproj"
+    },
+	{
+      "path": "NetCoreServiceTemplate\\NetCoreServiceTemplate.csproj"
+    },
+	{
+      "path": "docker-compose.dcproj"
+    }
+  ]
+}
